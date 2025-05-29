@@ -20,29 +20,6 @@ An intelligent AI assistant designed to work seamlessly both online and offline,
 
 **Tech Stack:** Python, NLP libraries, Godot Engine, Speech Recognition APIs
 
-**Project Structure:**
-Rex/
-│
-├── 📁 backend/
-│ ├── 📁 core/
-│ │ ├── 📄 agent.py # Main AI agent orchestrator
-│ │ ├── 📄 command_handler.py # Central command processing
-│ │ ├── 📄 learning_engine.py # Stores and learns from successful interactions
-│ │ └── 📄 config.py # Configuration settings
-│ │
-│ ├── 📁 modules/ # Modular functionality plugins
-│ │ ├── 📄 init.py
-│ │ ├── 📄 akinator.py # 20 questions game module
-│ │ ├── 📄 file_manager.py # File operations (create, search, organize)
-│ │ ├── 📄 medium.py # Medium article fetcher
-│ │ ├── 📄 search.py # Web search integration
-│ │ ├── 📄 slack.py # Slack workspace integration
-│ │ ├── 📄 spotify.py # Music control and playlist management
-│ │ └── 📄 system_commands.py # OS-level operations
-│ │
-│ ├── 📁 nlp/ # Natural Language Processing
-│ │ ├── 📄 init
-
 
 ### 📱 Medium Widget
 A customizable component for embedding and showcasing Medium articles on websites or applications.
